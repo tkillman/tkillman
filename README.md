@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![tkillman's github stats](https://github-readme-stats.vercel.app/api?username=tkillman&show_icons=true)
+[![tkillman's githubstats](https://github-readme-stats.vercel.app/api/top-langs/?username=tkillman&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/tkillman)
